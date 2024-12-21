@@ -14,13 +14,13 @@ else
 end
 
 # # Test 2
-# puts
-# puts "TEST #2: Typical B grade"
-# if final_grade([100.0, 90.0, 80.0, 80.0]) == "B"
-# 	puts "TEST #2 passed"
-# else
-# 	puts "TEST #2 failed"
-# end
+puts
+puts "TEST #2: Typical B grade"
+if final_grade([100.0, 90.0, 80.0, 80.0]) == "B"
+	puts "TEST #2 passed"
+else
+	puts "TEST #2 failed"
+end
 
 # # Test 3
 # puts
